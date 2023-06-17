@@ -1,4 +1,6 @@
 def main():
+    print("Hello World");
+    print("Python Programming");
 
     ##############################
     # make your code below
